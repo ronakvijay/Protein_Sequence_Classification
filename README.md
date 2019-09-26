@@ -1,6 +1,8 @@
 # Protein_Sequence_Classification
 A case study on Pfam dataset to classify protein families.
 
+## Blog Post: https://towardsdatascience.com/protein-sequence-classification-99c80d0ad2df
+
 ### Description
 Proteins are large, complex biomolecules that play many critical roles in biological bodies. Proteins are made up of one or more long chains of amino acids sequences. These Sequence are the arrangement of amino acids in a protein held together by peptide bonds. Proteins can be made from 20 different kinds of amino acids, and the structure and function of each protein are determined by the kinds of amino acids used to make it and how they are arranged.
 
