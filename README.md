@@ -30,18 +30,21 @@ The ProtCNN model has achieved significant results which are more accurate and c
 <table>
   <tr>
     <th>Model</th>
-    <th>Test Loss</th>
-    <th>Test Accuracy</th>
+    <th>Train Acc</th>
+    <th>Val Acc</th>
+    <th>Test Acc</th>
   </tr>
   <tr>
     <th>Bidirectional LSTM</th>
-    <th>1.478</th>
-    <th>0.894</th>
+    <th>0.964</th>
+    <th>0.957</th>
+    <th>0.958</th>
   </tr>
   <tr>
     <th>ProtCNN</th>
-    <th>0.892</th>
-    <th>0.955</th>
+    <th>0.996</th>
+    <th>0.988</th>
+    <th>0.988</th>
   </tr>
 </table>
 
